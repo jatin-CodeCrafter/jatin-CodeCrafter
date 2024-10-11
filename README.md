@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @jatin-CodeCrafter
+- 👀 I’m interested in software development, open-source contributions, and exploring new technologies.
+- 🌱 I’m currently learning Python, machine learning, and web development.
+- 💞️ I’m looking to collaborate on projects related to AI, data science, and innovative web applications.
+- 📫 How to reach me: [jatinsabaritech@gmail.com](mailto:jatinsabaritech@gmail.com).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving puzzles and challenges, especially coding challenges!
